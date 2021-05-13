@@ -4,11 +4,11 @@ socket.io-push [![Build Status](https://travis-ci.org/xuduo/socket.io-push.svg?b
 
 更有应用内超低延迟顺序(生产环境平均200MS以下)透传功能，支持websocket
 
-![白板](https://github.com/xuduo/socket.io-push/raw/master/readmes/broadcast.gif)
+![白板](https://github.com/davidnotes/socket.io-push/raw/master/readmes/broadcast.gif)
 
 广播可支持同频道10w以上在线，每台前端(proxy)可支持5W以上长连接(取决于你的推送量)
 
-![notification](https://github.com/xuduo/socket.io-push/raw/master/readmes/notification.gif)
+![notification](https://github.com/davidnotes/socket.io-push/raw/master/readmes/notification.gif)
 
 目前处于只修bug，不会更新新功能状态
 
